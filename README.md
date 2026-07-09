@@ -28,3 +28,60 @@
 ✔ писать сложный SQL;
 ✔ работать с Docker;
 ✔ пользоваться Git.
+
+### Семестр 2 — ETL Engineering (Недели 13–24)
+
+**`🎯 Цель: Научиться строить надежные пайплайны.`**
+
+Темы: `Airflow`, `Logging`, `Testing`, `Retry`, `Configuration`, `Data Validation`, `ETL Design`
+#### Проекты #
+1. ETL Framework
+2. Airflow Pipelines
+3. Scheduler
+
+### Семестр 3 — Data Warehouse (Недели 25–34)
+
+**`🎯 Цель: Научиться строить аналитические системы.`**
+
+Темы: `Kimball`, `Star Schema`, `Fact Table`, `Dimension Table`, `Slowly Changing Dimension`, `ClickHouse`
+
+#### Проекты #
+1. DWH
+2. Analytics Platform
+
+### Семестр 4 — Big Data (Недели 35–43)
+
+**`🎯 Цель: Понять распределенные вычисления.`**
+
+Темы: `Spark`, `Partition`, `Shuffle`, `Kafka`, `Streaming`, `Batch`
+
+#### Проекты #
+1. Streaming Pipeline
+2. Spark Jobs
+
+### Семестр 5 — Production (Недели 44–51)
+
+**`🎯 Цель: Научиться деплоить системы.`**
+
+Темы: `Kubernetes`, `CI/CD`, `GitHub Actions`, `Monitoring`, `Grafana`, `Prometheus`, `Cloud`
+
+#### Проекты #
+1. Production Platform
+
+# Главный проект года
+
+**Social Analytics Platform**
+
+Этапы развития:
+1. Источники данных (CSV, API).
+2. ETL на Python.
+3. PostgreSQL.
+4. Airflow.
+5. DWH.
+6. ClickHouse.
+7. Kafka.
+8. Spark.
+9. Мониторинг.
+10. Docker.
+11. Kubernetes.
+12. Облачное развертывание.
