@@ -1,6 +1,6 @@
 # DATA ENGINEERING UNIVERSITY
 
-[Правила]()
+[Правила](https://github.com/Igor69-web/Data-Engineer-Roadmap/blob/main/rules.md)
 
 ## Структура года
 
